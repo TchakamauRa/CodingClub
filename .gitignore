@@ -105,3 +105,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+Projects/LHC_Olympics/events_anomalydetection.h5
